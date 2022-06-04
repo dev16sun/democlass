@@ -1,1 +1,2 @@
-Hello this is from master branch.
+Hello this is from master branch. 
+There are some changes in updated branch
